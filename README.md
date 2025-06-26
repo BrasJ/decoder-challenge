@@ -8,5 +8,5 @@ Tools:
 - BeautifulSoup for parsing the HTML
 - Grid building with loops
 
-The data is parsed from the HTML by extracting all the text within <p>, <div>, and <span> elements and then searching for wanted
+The data is parsed from the HTML by extracting all the text within \<p>, \<div>, and \<span> elements and then searching for wanted
 data with regular expressions.
